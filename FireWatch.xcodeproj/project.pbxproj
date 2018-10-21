@@ -22,6 +22,7 @@
 		048A46DE217B203000882D48 /* Countries.txt in Resources */ = {isa = PBXBuildFile; fileRef = 048A46DD217B203000882D48 /* Countries.txt */; };
 		048A46E6217B2A5F00882D48 /* countrycapitals.json in Resources */ = {isa = PBXBuildFile; fileRef = 048A46E5217B2A5F00882D48 /* countrycapitals.json */; };
 		048A46E9217B511300882D48 /* onBoardVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048A46E8217B511300882D48 /* onBoardVC.swift */; };
+		04AA8006217D1038000C24CE /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA8005217D1038000C24CE /* Constants.swift */; };
 		49C0ADF6CD09E817B1353BD3 /* Pods_FireWatch.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D5E900C82DA4F91ED8E678B7 /* Pods_FireWatch.framework */; };
 		A805CD62217A506F00B93979 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A805CD61217A506F00B93979 /* GoogleService-Info.plist */; };
 		A86EC38F21790E800013B2E3 /* MapVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A86EC38E21790E800013B2E3 /* MapVC.swift */; };
@@ -52,6 +53,7 @@
 		048A46DD217B203000882D48 /* Countries.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Countries.txt; sourceTree = "<group>"; };
 		048A46E5217B2A5F00882D48 /* countrycapitals.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = countrycapitals.json; sourceTree = "<group>"; };
 		048A46E8217B511300882D48 /* onBoardVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = onBoardVC.swift; sourceTree = "<group>"; };
+		04AA8005217D1038000C24CE /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		1997896736619F5771FEF4B9 /* Pods-FireWatch.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FireWatch.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FireWatch/Pods-FireWatch.debug.xcconfig"; sourceTree = "<group>"; };
 		A805CD61217A506F00B93979 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		A86EC38E21790E800013B2E3 /* MapVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapVC.swift; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				048A46D9217B1D3E00882D48 /* data.txt */,
 				048A46DD217B203000882D48 /* Countries.txt */,
 				048A46E5217B2A5F00882D48 /* countrycapitals.json */,
+				04AA8005217D1038000C24CE /* Constants.swift */,
 			);
 			path = FireWatch;
 			sourceTree = "<group>";
@@ -300,6 +303,7 @@
 				A86EC38F21790E800013B2E3 /* MapVC.swift in Sources */,
 				A86EC3912179C1D00013B2E3 /* ReportVC.swift in Sources */,
 				A86EC399217A01D00013B2E3 /* Cycle.swift in Sources */,
+				04AA8006217D1038000C24CE /* Constants.swift in Sources */,
 				048A46D6217B1A3800882D48 /* WordReader.swift in Sources */,
 				A86EC397217A01340013B2E3 /* MapData.swift in Sources */,
 				048A46E9217B511300882D48 /* onBoardVC.swift in Sources */,

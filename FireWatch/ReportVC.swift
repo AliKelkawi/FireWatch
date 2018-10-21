@@ -26,7 +26,7 @@ class ReportVC: UIViewController {
     @IBOutlet var cameraBtn: UIButton!
     @IBOutlet var submitBtn: UIButton!
     
-    let apiKey = "d8C5S2nPSa-IRMgIVH_MD5bHLuWbqH8rSO9b-a25NyU9"
+    let apiKey = Constants.MLAPI
     let version = "2018-10-20"
     
     var classificationResults : [String] = []
