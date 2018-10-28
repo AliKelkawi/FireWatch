@@ -17,6 +17,11 @@ FireWatch however allows users to merge two steps into one. By allowing the user
 
 Reports are uploaded to a database that all users can access through the application. Users may view specific pictures of fire in pinned locations on the map, however they will not be able to manipulate the data since it is automated. The application allows users to view pictures of active fires as they are being uploaded. Colours are used to indicate the number of wildfires within a region, and as a user zooms into the map the fire pins begin to de-cluster allowing a user to view specific locations with fire.
 
+![Screenshot](Screenshot1.png)
+![Screenshot](Screenshot2.png)
+![Screenshot](Screenshot3.png)
+
+
 ## Progress:
 
 - User verification is done using phone numbers.
